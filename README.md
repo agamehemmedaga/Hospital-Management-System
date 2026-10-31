@@ -52,7 +52,6 @@ Or open the project in IntelliJ IDEA and run `Main`.
 ## 🖥️ Sample Output
 
 ```
----Medical-Hospital---
 
 Surgery Əməliyyatı:
 -> Əsas xidmət haqqı:1500.0AZN
